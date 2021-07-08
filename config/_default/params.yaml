@@ -5,10 +5,10 @@
 
 # Appearance
 
-theme: rose
-day_night: true
+theme: minimal
+text_color_light: false
 font: ''
-font_size: M
+font_size: L
 
 # SEO
 
