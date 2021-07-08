@@ -20,8 +20,8 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: ''
+phone: 
 address:
   street: ''
   city: ''
@@ -33,15 +33,13 @@ coordinates:
   latitude: ''
   longitude: ''
 directions: ''
-office_hours:
-  - ''
-  - ''
+office_hours: ''
 appointment_url: ''
 contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
+  - icon: ''
+    icon_pack: ''
+    name: ''
+    link: ''
   - icon: ''
     icon_pack: ''
     name: ''
